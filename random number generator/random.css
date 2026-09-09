@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana;
+    text-align: center;
+}
+
+#generateBtn {
+    background-color: #ebdd7e;
+    color: rgb(181, 12, 51);
+    padding: 10px 20px;
+    border: none;
+    font-size: 3em;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.myLabel {
+    font-size: 3em;
+    color: rgb(181, 12, 51);
+}
+
