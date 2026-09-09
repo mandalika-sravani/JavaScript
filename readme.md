@@ -10,3 +10,4 @@
  - Lesson - 8 -- Math
  - Lesson - 9 -- Random Number Generator
  - Lesson -10 -- IF -ELSE Statement
+ - Lesson - 11 -- Checked Property
