@@ -1,0 +1,24 @@
+body{
+    font-family: 'Segoe UI';
+    font-size: 25px;
+    color: red;
+}
+
+.username {
+    font-size: 20px;
+    color: blue;
+}
+
+.submitBtn {
+    font-size: 20px;
+    background-color:rgb(193, 5, 251);
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+.myh1 {
+    font-size: 30px;
+    color: green;
+}
