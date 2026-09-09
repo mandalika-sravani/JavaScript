@@ -6,3 +6,4 @@
  - Lesson - 4 -- Accept User Inputs
  - Lesson - 5 -- Type Conversions
  - Lesson - 6 -- Constants
+ - Lesson - 7 -- Counter Program
