@@ -7,3 +7,4 @@
  - Lesson - 5 -- Type Conversions
  - Lesson - 6 -- Constants
  - Lesson - 7 -- Counter Program
+ - Lesson - 8 -- Math
