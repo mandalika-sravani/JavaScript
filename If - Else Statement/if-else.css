@@ -1,0 +1,36 @@
+body {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 2em;
+}
+
+#myLabel {
+    color: rgb(55, 79, 3);
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.myage {
+    border: 2px solid rgb(55, 79, 3);
+    padding: 10px 10px;
+    color: rgb(130, 81, 21);
+    font-size:20px;
+    font-weight: bold;
+}
+
+.myButton {
+    background-color: rgb(94, 22, 4);
+    color: rgb(113, 227, 217);
+    padding: 10px 20px;
+    border: none;
+    font-size: 25px;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#result {
+    color: rgb(74, 121, 4);
+    font-weight: bold;
+    font-size: 25px;
+}
