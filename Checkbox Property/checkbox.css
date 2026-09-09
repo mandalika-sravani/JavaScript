@@ -1,0 +1,41 @@
+body {
+    font-family: Verdana;
+    margin: 20px;
+}
+
+#myCheckbox,
+#visaBtn,
+#masterBtn,
+#paypalBtn {
+    width: 40px;
+}
+
+#myLabel {
+    color: rgb(177, 110, 8);
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#myLabels {
+    color: rgb(30, 177, 8);
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.myButton {
+    color: rgb(76, 8, 177);
+    background-color: aqua;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 10px 20px;
+    border-style: none;
+    border-radius: 5px;
+}
+
+#subresult,
+#cardresult {
+    color: rgb(136, 89, 27);
+    font-size: 20px;
+    font-family: 'Georgia';
+    font-weight: bold;
+}
