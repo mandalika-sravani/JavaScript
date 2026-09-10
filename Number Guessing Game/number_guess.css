@@ -1,0 +1,44 @@
+body {
+      font-family: 'sans-serif';
+      text-align: center;
+      margin-top: 50px;
+      color: rgb(77, 67, 67)
+    }
+
+    #p1 {
+        font-size: 20px;
+        color: rgb(19, 117, 117);
+    }
+
+    #guessInput {
+        padding: 8px 12px;
+        font-size: 20px;
+        margin: 5px;
+        color: blueviolet;
+    }
+
+    #submitBtn {
+        background-color: rgb(163, 208, 78);
+        color: rgb(179, 18, 56);
+        padding: 10px 20px;
+        border: none;
+        font-size: 25px;
+        cursor: pointer;
+        padding: 10px 20px;
+        border-radius: 10px;
+        font-weight: bold;
+    }
+
+    #message {
+      font-size: 18px;
+      font-weight: bold;
+      margin-top: 15px;
+      color: brown;
+    }
+
+    #attemptsText{
+        font-size: 18px;
+      font-weight: bold;
+      margin-top: 15px;
+      color: rgb(92, 3, 3);
+    }
