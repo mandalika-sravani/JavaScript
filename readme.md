@@ -1,6 +1,6 @@
 ## JavaScript Training
 
- - Lesson 1 -- Introducton to JavaScript Basics
+ - Lesson - 1 -- Introducton to JavaScript Basics
  - Lesson - 2 -- Variables
  - Lesson - 3 -- Arithmetic Operators
  - Lesson - 4 -- Accept User Inputs
@@ -11,3 +11,4 @@
  - Lesson - 9 -- Random Number Generator
  - Lesson -10 -- IF -ELSE Statement
  - Lesson - 11 -- Checked Property
+ - Lesson - 12 -- Ternary Operator
