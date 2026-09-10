@@ -18,3 +18,5 @@
  - Lesson - 16 -- Method Chaining
  - Lesson - 17 -- Logical Operators
  - Lesson - 18 -- Strict Equality
+ - Lesson - 19 -- While Loop
+ - Lesson - 20 -- For Loop
