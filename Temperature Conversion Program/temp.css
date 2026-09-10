@@ -1,0 +1,67 @@
+body {
+    font-family: 'Trebuchet MS';
+}
+
+#form {
+    background-color: antiquewhite;
+    max-width: 500px;
+    text-align: center;
+    margin: auto;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(105, 61, 6);
+}
+
+#h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: coral;
+}
+
+#textbox {
+    font-size: 35px;
+    border-radius: 10px;
+    border-color: black;
+    color: rgb(81, 168, 14);
+    width: 200px;
+    text-align: center;
+    border-style: solid;
+}
+
+#toFahren,
+#toCel {
+    width: 1.5rem;    
+    height: 1.5rem;
+    accent-color: #8d12af;
+    cursor: pointer;
+}
+
+#cflabel{
+    font-size: 35px;
+    color: rgb(90, 78, 4);
+    font-weight: bold;
+}
+
+#fclabel {
+    font-size: 35px;
+    color: rgb(64, 107, 8);
+    font-weight: bold;
+}
+
+#button {
+    background-color: rgb(202, 190, 80);
+    color: rgb(13, 34, 116);
+    padding: 10px 20px;
+    border: none;
+    font-size: 25px;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#result {
+    color: rgba(99, 89, 2, 0.667);
+    font-weight: bold;
+    font-size: 25px;
+}
