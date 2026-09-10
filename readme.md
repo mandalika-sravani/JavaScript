@@ -21,3 +21,5 @@
  - Lesson - 19 -- While Loop
  - Lesson - 20 -- For Loop
  - Lesson - 21 -- Number Guessing Game (with and without while loop)
+ - Lesson - 22 -- Functions
+ - Lesson - 23 -- Variable Scope
