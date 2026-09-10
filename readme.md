@@ -15,3 +15,6 @@
  - Lesson - 13 -- Switch Statement
  - Lesson - 14 -- String Methods
  - Lesson - 15 -- String Slicing
+ - Lesson - 16 -- Method Chaining
+ - Lesson - 17 -- Logical Operators
+ - Lesson - 18 -- Strict Equality
