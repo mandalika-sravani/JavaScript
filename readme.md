@@ -13,3 +13,5 @@
  - Lesson - 11 -- Checked Property
  - Lesson - 12 -- Ternary Operator
  - Lesson - 13 -- Switch Statement
+ - Lesson - 14 -- String Methods
+ - Lesson - 15 -- String Slicing
