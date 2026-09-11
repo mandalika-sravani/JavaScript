@@ -24,3 +24,6 @@
  - Lesson - 22 -- Functions
  - Lesson - 23 -- Variable Scope
  - Lesson - 24 -- Temperature Conversion Program
+ - Lesson - 25 -- Arrays
+ - Lesson - 26 -- Spread Operator
+ - Lesson - 27 -- Rest Parameters
