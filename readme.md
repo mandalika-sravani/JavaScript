@@ -27,3 +27,4 @@
  - Lesson - 25 -- Arrays
  - Lesson - 26 -- Spread Operator
  - Lesson - 27 -- Rest Parameters
+ - Lesson - 28 -- Dice Roller Program
