@@ -1,0 +1,65 @@
+body {
+    font-family: 'Gill Sans';
+    text-align: center;
+}
+
+#container {
+    font-family: 'Gill Sans';
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 20spx;
+}
+
+#h1 {
+    color: rgb(150, 11, 11);
+}
+
+#number {
+    color: rgb(150, 11, 101);
+    padding: 10px;
+}
+
+#roll {
+    font-size: 2rem;
+    width: 120px;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: rgba(19, 19, 103, 0.685);
+}
+
+#rollBtn {
+    background-color: rgb(92, 55, 7);
+    padding: 10px 20px;
+    margin-left: 10px;
+    font-size: 1.5rem;
+    border-radius: 15px;
+    border-style: none;
+    font-weight: bold;
+    cursor: pointer;
+    color: azure;
+}
+
+#rollBtn:hover {
+    background-color: burlywood;
+    color: rgb(7, 63, 63);
+}
+
+#rollBtn:active {
+    background-color: rgb(158, 102, 28);
+    color: rgb(34, 172, 172);
+}
+
+#diceResult {
+    color: rgb(3, 143, 75);
+    font-size: 1.5rem;
+    margin: 20px;
+}
+
+#diceImages img{
+    width: 150px;
+    margin: 10px;
+    padding: 10px;
+}
+
