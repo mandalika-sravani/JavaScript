@@ -36,3 +36,5 @@
  - Lesson - 34 -- reduce()
  - Lesson - 35 -- Function Expressions
  - Lesson - 36 -- Arrow Functions
+ - Lesson - 37 -- JavaScript Objects
+ - Lesson - 38 -- THIS
