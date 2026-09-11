@@ -34,3 +34,5 @@
  - Lesson - 32 -- map()
  - Lesson - 33 -- filter()
  - Lesson - 34 -- reduce()
+ - Lesson - 35 -- Function Expressions
+ - Lesson - 36 -- Arrow Functions
