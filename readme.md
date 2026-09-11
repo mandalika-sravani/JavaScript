@@ -29,3 +29,8 @@
  - Lesson - 27 -- Rest Parameters
  - Lesson - 28 -- Dice Roller Program
  - Lesson - 29 -- Random Password Generator
+ - Lesson - 30 -- Callbacks
+ - Lesson - 31 -- forEach()
+ - Lesson - 32 -- map()
+ - Lesson - 33 -- filter()
+ - Lesson - 34 -- reduce()
