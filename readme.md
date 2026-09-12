@@ -46,3 +46,9 @@
  - Lesson - 44 -- Getters & Setters
  - Lesson - 45 -- Destructing
  - Lesson - 46 -- Nested Objects
+ - Lesson - 47 -- Array of Objects
+ - Lesson - 48 -- Sorting
+ - Lesson - 49 -- Shuffle an Array
+ - Lesson - 50 -- Dates
+ - Lesson - 51 -- Closures
+ - Lesson - 52 -- setTimeout()
