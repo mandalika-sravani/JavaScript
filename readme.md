@@ -38,3 +38,7 @@
  - Lesson - 36 -- Arrow Functions
  - Lesson - 37 -- JavaScript Objects
  - Lesson - 38 -- THIS
+ - Lesson - 39 -- Constructors
+ - Lesson - 40 -- Classes
+ - Lesson - 41 -- STATIC Keyword
+ - Lesson - 42 -- Inheritance
