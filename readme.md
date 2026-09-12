@@ -42,3 +42,7 @@
  - Lesson - 40 -- Classes
  - Lesson - 41 -- STATIC Keyword
  - Lesson - 42 -- Inheritance
+ - Lesson - 43 -- SUPER keyword
+ - Lesson - 44 -- Getters & Setters
+ - Lesson - 45 -- Destructing
+ - Lesson - 46 -- Nested Objects
