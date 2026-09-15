@@ -52,3 +52,4 @@
  - Lesson - 50 -- Dates
  - Lesson - 51 -- Closures
  - Lesson - 52 -- setTimeout()
+ - Lesson - 53 -- Digital Clock Program
