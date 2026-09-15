@@ -58,4 +58,7 @@
  - Lesson - 56 -- Asynchronous code
  - Lesson - 57 -- Error Handling
  - Lesson - 58 -- Calculator Program
+ - Lesson - 59 -- What is DOM?
+ - Lesson - 60 -- Element Selectors
+ - Lesson - 61 -- DOM Navigation
  
