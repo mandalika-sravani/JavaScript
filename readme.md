@@ -54,3 +54,8 @@
  - Lesson - 52 -- setTimeout()
  - Lesson - 53 -- Digital Clock Program
  - Lesson - 54 -- Stopwatch Program
+ - Lesson - 55 -- ES6 Modules
+ - Lesson - 56 -- Asynchronous code
+ - Lesson - 57 -- Error Handling
+ - Lesson - 58 -- Calculator Program
+ 
