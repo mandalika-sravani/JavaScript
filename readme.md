@@ -61,4 +61,6 @@
  - Lesson - 59 -- What is DOM?
  - Lesson - 60 -- Element Selectors
  - Lesson - 61 -- DOM Navigation
- 
+ - Lesson - 62 -- Add and Change HTML
+ - Lesson - 63 -- Mouse Events
+ - Lesson - 64 -- Key Events
