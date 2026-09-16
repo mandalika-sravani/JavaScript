@@ -68,3 +68,4 @@
  - Lesson - 66 -- NodeLists
  - Lesson - 67 -- ClassLists
  - Lesson - 68 -- Rock Paper Scissors
+ - Lesson - 69 -- Image Slider
