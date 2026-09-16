@@ -64,3 +64,6 @@
  - Lesson - 62 -- Add and Change HTML
  - Lesson - 63 -- Mouse Events
  - Lesson - 64 -- Key Events
+ - Lesson - 65 -- Hide/Show HTML
+ - Lesson - 66 -- NodeLists
+ - Lesson - 67 -- ClassLists
