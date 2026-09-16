@@ -69,3 +69,6 @@
  - Lesson - 67 -- ClassLists
  - Lesson - 68 -- Rock Paper Scissors
  - Lesson - 69 -- Image Slider
+ - Lesson - 70 -- Callback Hell
+ - Lesson - 71 -- Promises
+ - Lesson - 72 -- Async/Await
