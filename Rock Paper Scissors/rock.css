@@ -1,0 +1,54 @@
+body {
+    font-family: 'Georgia';
+    font-weight: bold;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#h1 {
+    font-size: 4rem;
+    color: rgb(114, 15, 15);
+}
+
+.choices {
+    margin-bottom: 30px;
+}
+
+.choices button {
+    font-size: 7rem;
+    min-width: 160px;
+    margin: 0 10px;
+    border-radius: 250px;
+    background-color: aqua;
+    cursor: pointer;
+    border: none;
+    transition: background-color 0.5s ease;
+}
+
+.choices button:hover {
+    background-color: rgb(23, 117, 117);
+}
+
+#playerDisplay, #compDisplay {
+    font-size: 2.5rem;
+    color: rgb(107, 61, 29);
+}
+
+#resultDisplay {
+    font-size: 5rem;
+    margin: 30px 0;
+}
+
+#resultDisplay.greenText {
+    color: rgb(13, 210, 13);
+}
+
+#resultDisplay.redText {
+    color: red;
+}
+
+#resultDisplay.tieText {
+    color: rgb(68, 68, 198);
+}
