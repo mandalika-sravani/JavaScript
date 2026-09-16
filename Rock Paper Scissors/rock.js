@@ -4,6 +4,11 @@ const choices = ["Rock", "Paper", "Scissors"];
 const playerDisplay = document.getElementById("playerDisplay");
 const compDisplay = document.getElementById("compDisplay");
 const resultDisplay = document.getElementById("resultDisplay");
+const playerScore = document.getElementById("playerScoreDisplay");
+const compScore = document.getElementById("compScoreDisplay");
+let playScore = 0;
+let comScore = 0;
+
 
 function playGame(playerChoice) {
     const compChoice = choices[Math.floor(Math.random() * 3)];
@@ -37,10 +42,14 @@ function playGame(playerChoice) {
     switch(result) {
         case "YOU WIN!" :
             resultDisplay.classList.add("greenText");
+            playScore++;
+            playerScore.textContent = playScore;
             break;
         
         case "YOU LOSE!" :
             resultDisplay.classList.add("redText");
+            comScore++;
+            compScore.textContent = comScore;
             break;
         
         case "IT'S A TIE!" :

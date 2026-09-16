@@ -42,10 +42,15 @@ body {
     margin: 30px 0;
 }
 
-#resultDisplay.greenText {
+.scoreDisplay{
+    font-size: 2rem;
+    color: rgb(96, 61, 16);
+}
+
+#resultDisplay.greenText, #playerScoreDisplay {
     color: rgb(13, 210, 13);
 }
 
-#resultDisplay.redText {
+#resultDisplay.redText, #compScoreDisplay {
     color: red;
 }
