@@ -72,3 +72,6 @@
  - Lesson - 70 -- Callback Hell
  - Lesson - 71 -- Promises
  - Lesson - 72 -- Async/Await
+ - Lesson - 73 -- JSON Files
+ - Lesson - 74 -- Fetch Data from an API
+ - Lesson - 75 -- Weather App Project 🌞
